@@ -1,0 +1,260 @@
+/* .bestoffer img{
+    height: 50vh;
+    width: 100%;
+
+} */
+.collection{
+    margin-top: 50px;
+    /* margin-left: 40px; */
+    overflow: hidden;
+ }
+ .kids img{
+    margin-left: 260px;
+ }
+ .kids h6{
+    margin-left: 370px;
+    margin-top: 10px;
+    font-weight: bold;
+    
+ }
+ .boy h6{
+    margin-left: 300px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.boy img{
+    margin-left: 200px;
+}
+ .grl img{
+    margin-left: 150px;
+ }
+ .grl h6{
+    margin-left: 240px;
+    margin-top: 10px;
+    font-weight: bold;
+ }
+ .two img{
+    margin-left: 100px;
+ }
+ .two h6{
+    margin-left: 130px;
+    margin-top: 10px;
+    font-weight: bold;
+    
+ }
+ .winter img{
+    margin-left: 50px;
+ }
+ .winter h6{
+    margin-left: 130px;
+    margin-top: 10px;
+    font-weight: bold;
+    
+ }
+ .cards02{
+   width: 100%;
+   display: flex;
+ }
+ .cards02 img{
+   width: 300px;
+   height: 55vh;
+   
+ }
+ .cards01{
+   margin-top: 60px;
+   margin-left: 300px;
+ }
+ .shadow01{
+   width: 280px;
+ }
+ .cards001{
+   margin-top: 100px;
+   margin-left: 300px;
+ }
+ .line{
+   border-bottom: 2px grey solid;
+   margin-top: 80px;
+   width: 93%;
+   margin-left: 50px;
+ }
+ .next01 h3{
+   text-align: center;
+   margin-top: 30px;
+ }
+ .button01 button{
+   padding: 8px;
+   width: 120px;
+   margin-left: 20px;
+   border-radius: 20px;
+   font-size: 13px;
+   font-weight: bold;
+ }
+ .button01{
+   padding-left: 300px;
+   margin-top: 30px;
+ }
+ .full{
+   margin-right: 140px;
+ }
+ .full01{
+   margin-right: 140px;
+ }
+ .full02{
+   margin-right: 140px;
+ }
+ .full04{
+   margin-right: 140px;
+ }
+ .outline01{
+   width: 100%;
+   display: flex;
+ }
+ .now{
+   height: 60vh;
+   background-color: transparent;
+   border-color: transparent;
+
+ }
+ .outline01 p{
+   /* padding-top: 80px; */
+   font-size: 19px;
+   font-weight: bold;
+   text-align: center;
+ }
+ .hello{
+   font-weight: bold;
+   font-size: 40px;
+   text-align: center;
+ }
+ .hello01{
+   /* font-weight: bold; */
+   text-align: center;
+   padding-top: 10px;
+ }
+ .shop{
+   font-weight: bold;
+   text-align: center;
+   padding-top: 10px;
+ }
+ .shoe{
+   width: 180px;
+   border-color: transparent;
+   background-color: transparent;
+ }
+ .shoe01{
+   height:3vh;
+   border-color: transparent;
+   background-color: transparent;
+ }
+ .junior01{
+   border-color: transparent;
+   background-color: transparent;
+ }
+ .junior01 p{
+   font-size: 14px;
+   text-transform: uppercase;
+   text-align: left;
+ }
+ .shoe99{
+   font-size: 14px;
+ }
+ .shoe01 img{
+   width: 190px;
+ }
+ .shoe01{
+   width: 170px;
+ }
+ .cotton img{
+   height: 39vh;
+ }
+ .style01 h3{
+   text-align: center;
+ }
+ .style01 p{
+   text-align: center;
+ }
+
+ .style99{
+   text-align: center;
+ }
+ .in button{
+   padding: 8px;
+   width: 120px;
+   margin-left: 20px;
+   border-radius: 10px;
+   font-size: 13px;
+   color: white;
+   font-weight: bold;
+ }
+ .in{
+   margin-left: 450px;
+   margin-top: 30px;
+ }
+ .ethic img{
+    width: 200px;
+ }
+ .office img{
+    width: 200px;
+ }
+ .party img{
+    width: 200px;
+ }
+ .kidsethic img{
+    width: 220px;
+ }
+ .dector img{
+    width: 200px;
+    margin-left: 20px;
+ }
+ .mug img{
+    width: 200px;
+    margin-left: 30px;
+    height: 43vh;
+ }
+ .dress01 h3{
+    text-align: center;
+    padding-top: 30px;
+ }
+ .rise img{
+  width: 200px;
+ }
+ .fit img{
+  width: 250px;
+  /* margin-right: 50px; */
+ }
+ .dark img{
+  width: 340px;
+ }
+ .liac img{
+  width: 280px;
+ }
+ .highpink img{
+  width: 200px;
+  /* margin-left: 70px; */
+ }
+ .highpink01{
+  margin-left: 270px;
+  width: 220px;
+  margin-top: 120px;
+ }
+ .liac01{
+  margin-left: 190px;
+  width: 310px;
+  margin-top: 60px;
+ }
+ .dark01{
+  margin-left: 50px;
+  width: 370px;
+ }
+ .fit01{
+  width: 280px;
+  margin-top: 70px;
+ }
+ .rise01{
+  margin-top: 120px;
+ }
+ .brand003 h4{
+  text-align: center;
+  padding-top: 50px
+ }
+ 

@@ -1,0 +1,42 @@
+.soild01 img{
+    width: 100px;
+    border-radius: 8px;
+}
+.white img{
+    width: 100px;
+    border-radius: 8px;
+}
+.full img{
+    width: 100px;
+    border-radius: 8px;
+}
+.green img{
+    width: 100px;
+    border-radius: 8px;
+}
+.black img{
+    width: 100px;
+    border-radius: 8px;
+}
+.buy00 img{
+    box-shadow: 1px 7px rgb(235, 192, 83);
+    width: 200px;
+
+}
+ .buy00:hover{
+    transform: scale(1.1s);
+
+}
+ .buy00 img{
+    transition: transform 0.5s;
+}
+.buy{
+    margin-left: 100px;
+}
+.shop019{
+    padding-left: 80px;
+}
+.my01{
+    background-color: rgb(25, 236, 225);
+    width: 150px;
+}

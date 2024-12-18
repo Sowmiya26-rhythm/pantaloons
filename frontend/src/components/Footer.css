@@ -1,0 +1,46 @@
+.row{
+    width: 100%;
+    display: flex;
+}
+.last01 img{
+    background-color: black;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+.last01 p{
+    text-align: center;
+}
+
+.icons li{
+    display: inline;
+    padding: 30px;
+    font-size: 20px;
+}
+.icons01 li{
+    display: inline;
+    font-size: 12px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    /* margin-left: 10px; */
+}
+
+.call {
+    border-bottom: 1px black solid;
+}
+.heading6 h6{
+    text-align: center;
+    padding-top: 10px;
+}
+.label001{
+    width: 250px;
+    padding: 5px;
+}
+.last{
+    overflow: hidden;
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

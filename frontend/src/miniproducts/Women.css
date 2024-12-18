@@ -1,0 +1,142 @@
+/* .line img{
+    width: 70px;
+    border-radius: 10px;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.women02 img{
+    width: 100%;
+    overflow: hidden;
+}
+
+.line01 img{
+    width: 70px;
+    border-radius: 10px;
+}
+.line03 img{
+    width: 70px;
+    border-radius: 10px;
+}
+.line04 img{
+    width: 70px;
+    border-radius: 10px;
+}
+.line05 img{
+    width: 70px;
+    border-radius: 10px;
+}
+.line06 img{
+    width: 70px;
+    border-radius: 10px;
+}
+.next01{
+    margin-top: 50px;
+    overflow: hidden;
+}
+.New{
+    font-weight: bold;
+}
+.Tops{
+    font-weight: bold;
+}
+.Dresses{
+    font-weight: bold;
+}
+.Bottoms{
+    font-weight: bold;
+}
+.Winter{
+    font-weight: bold;
+}
+.style01{
+    padding-left: 180px;
+}
+.map02 img{
+    width: 200px;
+    
+}
+.space{
+    width: 200px;
+    /* margin-left: 100px; */
+    background-color: transparent;
+    border-color: transparent;
+}
+.map01{
+    overflow: hidden;
+    width: 100%;
+}
+.s01{
+    background-color: transparent;
+    border-color: transparent;
+}
+.title01{
+    font-size: 17px;
+    
+}
+.abc{
+    font-size: 13px;
+}
+.price01{
+    font-size: 15px;
+}
+.women01{
+    overflow: hidden;
+    width: 100%;
+}
+.next01{
+    overflow: hidden;
+    width: 100%;
+}
+
+.round01 .round04{
+    width: 200px;
+    box-shadow: 1px 7px rgb(235, 192, 83);
+    /* margin-left: 50px; */
+    
+}
+.sleep{
+    padding-left:110px ;
+    padding-top: 30px;
+}
+.shop013{
+    padding-left:110px ;
+    padding-top: 30px;
+}
+.trendy01{
+    padding-left:120px ;
+    padding-top: 30px;
+}
+.wave{
+    padding-left:110px ;
+    padding-top: 30px;
+}
+.round01 .shop01{
+    margin-left: 40px;
+    /* padding-top: 40px; */
+}
+.shop01{
+    padding-left: 150px;
+}
+.round01 img{
+margin-top: 40px;
+margin-left: 70px;
+
+}
+.round{
+    overflow: hidden;
+    width: 100%;
+}
+.dress01{
+    overflow: hidden;
+    width: 100%;
+}
+.space{
+    margin-left: 70px;
+    padding-top: 40px;
+}
+.my01{
+    background-color: rgb(25, 236, 225);
+}
+
